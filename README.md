@@ -10,3 +10,9 @@ resources: Use GameMaker Studios 2 for assets, use react/vite for the frontend, 
 
 Controls: Use mouse to interact with object/buttons (or you can press E to interact with objects), use WASD to control your players
 If you need help with controls go to the pause icon and click control, showing you what buttons to use in order to either control your character or interacting with objects.
+
+(please run the project with both the frontend and the backend running)
+
+(frontend- client (use commands: cd client, npm.cmd run dev))
+
+(backend-server (use commands: cd server, npm.cmd run dev))
